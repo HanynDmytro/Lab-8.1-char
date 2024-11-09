@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80D0A349-EEF8-4ACD-B2EF-4C5EC7EC0219}|pr8.1 char\\pr8.1 char.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\pr8.1 char\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80D0A349-EEF8-4ACD-B2EF-4C5EC7EC0219}|pr8.1 char\\pr8.1 char.vcxproj|solutionrelative:pr8.1 char\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60CFF2B9-5E9B-42E4-A9F9-2C4B1E69C68D}|UnitTest1\\UnitTest1.vcxproj|D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60CFF2B9-5E9B-42E4-A9F9-2C4B1E69C68D}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T00:21:23.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\pr8.1 char\\Source.cpp",
+              "RelativeDocumentMoniker": "pr8.1 char\\Source.cpp",
+              "ToolTip": "D:\\Politeh\\AP\\LAB\\pr8\\pr8.1 char\\pr8.1 char\\pr8.1 char\\Source.cpp",
+              "RelativeToolTip": "pr8.1 char\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T00:17:33.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

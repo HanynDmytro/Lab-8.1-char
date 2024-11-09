@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Politeh\AP\LAB\pr8\pr8.1 char\pr8.1 char\pr8.1 char\Source.cpp(8,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Politeh\AP\LAB\pr8\pr8.1 char\pr8.1 char\pr8.1 char\Source.cpp(25,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pr8.1 char.vcxproj -> D:\Politeh\AP\LAB\pr8\pr8.1 char\pr8.1 char\x64\Debug\pr8.1 char.exe
